@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'português',
+    'O que é um substantivo?',
+    'É a palavra que dá nome às pessoas, lugares, coisas ou ideias.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior continente do mundo?',
+    'Ásia.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'português',
+    'Para que serve a vírgula na frase?',
+    'Para separar elementos na frase e deixar o sentido mais claro.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Qual é o rio mais longo do Brasil?',
+    'O rio Amazônia.'
 )
