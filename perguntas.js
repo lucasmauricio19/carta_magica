@@ -1,5 +1,5 @@
 criaCartao(
-    'português',
+    'portuguê',
     'O que é um substantivo?',
     'É a palavra que dá nome às pessoas, lugares, coisas ou ideias.'
 )
