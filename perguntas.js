@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual é o rio mais longo do Brasil?',
-    'O rio Amazônia.'
+    'O rio Amazonas.'
 )
